@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dev/friday-the-13th-game/main.cpp
+iostream
+-
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+windows.h
+-
+

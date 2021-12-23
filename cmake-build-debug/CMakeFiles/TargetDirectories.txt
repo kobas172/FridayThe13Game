@@ -1,0 +1,3 @@
+C:/Dev/friday-the-13th-game/cmake-build-debug/CMakeFiles/friday_the_13th_game.dir
+C:/Dev/friday-the-13th-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/friday-the-13th-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
